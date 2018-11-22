@@ -1,5 +1,0 @@
-﻿  Verifier.cpp
-c:\1projects\c++projects\crc2\crc2\verifier.cpp(16): warning C4018: '<=': signed/unsigned mismatch
-c:\1projects\c++projects\crc2\crc2\verifier.cpp(18): warning C4018: '<': signed/unsigned mismatch
-c:\1projects\c++projects\crc2\crc2\verifier.cpp(22): warning C4018: '<': signed/unsigned mismatch
-  crc2.vcxproj -> C:\1Projects\C++Projects\crc2\Debug\crc2.exe

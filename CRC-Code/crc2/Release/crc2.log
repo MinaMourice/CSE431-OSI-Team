@@ -1,0 +1,15 @@
+﻿  Alter.cpp
+  Generator.cpp
+c:\1projects\c++projects\crc2\crc2\generator.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\1projects\c++projects\crc2\crc2\generator.cpp(20): warning C4018: '<=': signed/unsigned mismatch
+c:\1projects\c++projects\crc2\crc2\generator.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\1projects\c++projects\crc2\crc2\generator.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Verifier.cpp
+c:\1projects\c++projects\crc2\crc2\verifier.cpp(16): warning C4018: '<=': signed/unsigned mismatch
+c:\1projects\c++projects\crc2\crc2\verifier.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\1projects\c++projects\crc2\crc2\verifier.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 311 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  crc2.vcxproj -> C:\1Projects\C++Projects\crc2\Release\crc2.exe
