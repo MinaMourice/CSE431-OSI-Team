@@ -4,7 +4,7 @@ Implementation of some algorithms in OSI model Layers
 
 ## Table of Contents
 - [CRC](#crc)
-- [Screenshots](#screenshot)
+- [Screenshots](#screenshots)
 
 ## CRC
 
